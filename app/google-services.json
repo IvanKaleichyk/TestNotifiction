@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "131145396131",
+    "project_id": "testnotifiction-e02b9",
+    "storage_bucket": "testnotifiction-e02b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131145396131:android:2f41ef774cb74251a8f416",
+        "android_client_info": {
+          "package_name": "com.koleychik.testnotifiction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131145396131-qji9us21oci4cli4oqrhonuebbo7q842.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiK4LmJ1XJO-CpKYnpZlnoVS6B0icn-Ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131145396131-qji9us21oci4cli4oqrhonuebbo7q842.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
